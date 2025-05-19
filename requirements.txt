@@ -1,0 +1,6 @@
+streamlit
+paho-mqtt
+redis
+psycopg2-binary
+sqlalchemy
+pandas
