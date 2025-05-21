@@ -3,3 +3,6 @@ __pycache__/
 env/
 .vscode/
 .ipynb_checkpoints/
+
+pg_config.py
+redis_config.py
